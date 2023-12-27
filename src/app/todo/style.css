@@ -1,0 +1,5 @@
+.box{
+    display: flexbox;
+    border: 2px saddlebrown;
+    background-color: aqua;
+}
