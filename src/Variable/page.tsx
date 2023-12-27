@@ -15,4 +15,5 @@ export default function variables() {
   <div> My name : {user.name}</div>
     </div>
   )
+  
 }
